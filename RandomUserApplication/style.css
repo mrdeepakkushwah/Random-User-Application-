@@ -1,0 +1,28 @@
+body {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    border: 5px solid white;
+    min-height: 300px;
+    min-width: 400px;
+    box-shadow: 0 0 7px black;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  #new-user {
+    background-color: black;
+    color: gold;
+    padding: 10px;
+    width: 100%;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
